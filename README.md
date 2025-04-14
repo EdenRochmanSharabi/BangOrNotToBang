@@ -181,8 +181,7 @@ The application implements several measures to address ethical concerns:
 2. Eisenthal, Y., Dror, G., & Ruppin, E. (2006). Facial attractiveness: Beauty and the machine. Neural Computation, 18(1), 119-142.
 3. Apple Inc. (2023). Vision Framework Documentation. https://developer.apple.com/documentation/vision
 4. Apple Inc. (2023). Core ML Documentation. https://developer.apple.com/documentation/coreml
-5. Zhang, D., et al. (2021). FAT: Facial Attractiveness Transformer With CLIP-inspired Contrastive Learning. IEEE Transactions on Neural Networks and Learning Systems, 32(11), 4998-5010.
-6. Rhodes, G. (2006). The evolutionary psychology of facial beauty. Annual Review of Psychology, 57, 199-226.
+5. Rhodes, G. (2006). The evolutionary psychology of facial beauty. Annual Review of Psychology, 57, 199-226.
 
 ## Implementation Details
 
